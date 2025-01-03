@@ -42,7 +42,7 @@
 - #### Navigations
 
 
-# Business Problem Statement 
+# Business Problem Statement - 1
 
 
 ## DASHBOARD 1: HOME - KPI’s Requirement
@@ -69,6 +69,35 @@
 
 
 
+![call home dash 1](https://github.com/user-attachments/assets/51dffd4b-c3cc-4c53-bb70-7c8b71f2b589)
+
+
+
+## DASHBOARD 1: HOME - Chart’s Requirement
+
+### Total Call by Day (Column Chart) :
+
+#### Display a column chart that shows the total number of calls on each day over a specified time period.
+
+### Total Calls by State (Filled Map Chart) :
+
+#### Create a filled map chart that visualizes the total number of calls received from different states or regions.
+
+### Top Reason for Calls (Tree Map) :
+
+#### Implement a tree map chart to display the top reasons for calls. Each box in the tree map represents a call reason.
+
+### Total Calls by Channel (Donut Chart) :
+
+#### Create a donut chart to showcase the distribution of calls by different communication channels.
+
+### Total Calls by Sentiment (Column Chart) : 
+
+#### Utilize a column chart to illustrate the distribution of calls by sentiment (e.g., positive, negative, neutral).
+
+### Total Calls by Call Centre (Bar Chart) :
+
+#### Create a bar chart that presents the total number of calls handled by each call center or department.
 
 
 
@@ -76,32 +105,15 @@
 
 
 
-DASHBOARD 1: HOME - Chart’s Requirement
-Total Call by Day (Column Chart):
-Display a column chart that shows the total number of calls on each day over a specified time period.
+# Business Problem Statement - 2
 
-Total Calls by State (Filled Map Chart):
-Create a filled map chart that visualizes the total number of calls received from different states or regions.
+- ###  Dashboard / Grid:
 
-Top Reason for Calls (Tree Map):
-Implement a tree map chart to display the top reasons for calls. Each box in the tree map represents a call reason.
+#### Create a Grid View dashboard displaying a table of all call details in Power BI.
 
-Total Calls by Channel (Donut Chart):
-Create a donut chart to showcase the distribution of calls by different communication channels.
+- ### Export Feature:
 
-Total Calls by Sentiment (Column Chart):
-Utilize a column chart to illustrate the distribution of calls by sentiment (e.g., positive, negative, neutral).
-
-Total Calls by Call Centre (Bar Chart):
-Create a bar chart that presents the total number of calls handled by each call center or department.
-
-
-
-
-
-
-
-
+#### Ensure the grid allows users to export data based on various applied filters.
 
 
 
