@@ -111,6 +111,8 @@
 
 # Business Problem Statement - 2
 
+## DASHBOARD 2 : Grid
+
 - ###  Dashboard / Grid:
 
 #### Create a Grid View dashboard displaying a table of all call details in Power BI.
